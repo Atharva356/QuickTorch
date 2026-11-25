@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuickTorch</string>
+    <string name="accessibility_service_label">QuickTorch Volume Combo</string>
+    <string name="accessibility_service_desc">Detects pressing Volume Up + Volume Down together to toggle your flashlight without conflicting with Emergency SOS. Does not read screen content or personal data.</string>
+    <string name="notif_channel_name">QuickTorch Listener</string>
+    <string name="notif_channel_desc">Keeps hardware triggers active reliably in the background</string>
+</resources>

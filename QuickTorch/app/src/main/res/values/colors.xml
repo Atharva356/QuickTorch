@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0D1117</color>
+    <color name="surface_card">#161B22</color>
+    <color name="surface_elevated">#21262D</color>
+    <color name="border_subtle">#30363D</color>
+    <color name="amber_primary">#FFB300</color>
+    <color name="amber_glow">#FFD54F</color>
+    <color name="amber_dark">#332600</color>
+    <color name="text_primary">#F0F6FC</color>
+    <color name="text_secondary">#8B949E</color>
+    <color name="status_green">#3FB950</color>
+    <color name="status_red">#F85149</color>
+    <color name="status_blue">#58A6FF</color>
+</resources>
